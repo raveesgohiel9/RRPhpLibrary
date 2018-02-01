@@ -1,0 +1,10 @@
+1) Kindly check the include path for all the files referred. The paths need to be edited
+2) The database has to be create first then you can add your tables to list in the TableList.php
+This file helps to restrict the amount of data your database needs to retrieve. Everytime a query is made, you can get the list of 
+fields from the array of table list.
+You can see examples in the user module.
+
+3) the class Php Crud consists of database queries or function that you can simply pass values to and get the result. There are a 
+lot of functions in the class to use including update. 
+4) This framework has been specifically used for CRM's.
+I will add more instructions later on. Please post any questions if you have. I will reply asap.
